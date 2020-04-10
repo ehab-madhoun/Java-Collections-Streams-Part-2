@@ -1,0 +1,28 @@
+
+
+/**
+ *
+ * @author Ehab Elmadhoun 120163399
+ */
+
+
+.root{
+    -fx-background-color: #999;
+}
+.label{
+    -fx-font-weight: bold;
+}
+.button{
+    -fx-text-fill:#fff;
+    -fx-background-color: #307d7e;
+    -fx-background-radius: 5;
+}
+#wel{
+    -fx-text-height:font-size;
+    -fx-font-weight:bold;
+    -fx-font-size:20;
+}
+#error{
+    -fx-text-fill:red;
+    -fx-font-weight:bold;
+}
